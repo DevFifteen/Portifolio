@@ -1004,7 +1004,7 @@ a:hover {
 }
 
 .php-email-form input, .php-email-form textarea {
-  border-radius: 0;
+  border-radius: 4;
   box-shadow: none;
   font-size: 14px;
 }
